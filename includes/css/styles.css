@@ -164,11 +164,11 @@ float: left;
 #slide4 {background: url('../../images/carousel_medium_05.jpg') top center no-repeat; }
 #slide5 {background: url('../../images/carousel_medium_06.jpg') top center no-repeat; }
 #slide6 {background: url('../../images/conocenos1_medium.jpg') top center no-repeat; }
-#slide7 {background: url('../../images/febrero_medium.jpg') top center no-repeat; }
-#slide8 {background: url('../../images/abril_medium.jpg') top center no-repeat; }
-#slide9 {background: url('../../images/mayo_medium.jpg') top center no-repeat; }
-#slide10 {background: url('../../images/junio_medium.jpg') top center no-repeat; }
-#slide11 {background: url('../../images/julio_medium.jpg') top center no-repeat; }
+#slide7 {background: url('../../images/mision_medium.jpg') top center no-repeat; }
+#slide8 {background: url('../../images/_medium.jpg') top center no-repeat; }
+#slide9 {background: url('../../images/_medium.jpg') top center no-repeat; }
+#slide10 {background: url('../../images/_medium.jpg') top center no-repeat; }
+#slide11 {background: url('../../images/_medium.jpg') top center no-repeat; }
 /* -- Global Styles -- */
 .alert {
    margin-top: 20px;
@@ -237,11 +237,11 @@ float: left;
 #slide4 {background: url('../../images/carousel_small_05.jpg') top center no-repeat; }
 #slide5 {background: url('../../images/carousel_small_06.jpg') top center no-repeat; }
 #slide6 {background: url('../../images/conocenos1_small.jpg') top center no-repeat; }
-#slide7 {background: url('../../images/febrero_small.jpg') top center no-repeat; }
-#slide8 {background: url('../../images/abril_small.jpg') top center no-repeat; }
-#slide9 {background: url('../../images/mayo_small.jpg') top center no-repeat; }
-#slide10 {background: url('../../images/junio_small.jpg') top center no-repeat; }
-#slide11 {background: url('../../images/julio_small.jpg') top center no-repeat; }
+#slide7 {background: url('../../images/mision_small.jpg') top center no-repeat; }
+#slide8 {background: url('../../images/_small.jpg') top center no-repeat; }
+#slide9 {background: url('../../images/_small.jpg') top center no-repeat; }
+#slide10 {background: url('../../images/_small.jpg') top center no-repeat; }
+#slide11 {background: url('../../images/_small.jpg') top center no-repeat; }
 
 .navbar-responsive-collapse { background-color: #dec5ab; margin-top: 42.5px; }
 }
@@ -258,11 +258,11 @@ float: left;
 #slide4 {background: url('../../images/carousel_large_05.jpg') top center no-repeat; }
 #slide5 {background: url('../../images/carousel_large_06.jpg') top center no-repeat; }
 #slide6 {background: url('../../images/conocenos1_large.jpg') top center no-repeat; }
-#slide7 {background: url('../../images/febrero_large.jpg') top center no-repeat; }
-#slide8 {background: url('../../images/abril_large.jpg') top center no-repeat; }
-#slide9 {background: url('../../images/mayo_large.jpg') top center no-repeat; }
-#slide10 {background: url('../../images/junio_large.jpg') top center no-repeat; }
-#slide11 {background: url('../../images/julio_large.jpg') top center no-repeat; }
+#slide7 {background: url('../../images/mision_large.jpg') top center no-repeat; }
+#slide8 {background: url('../../images/_large.jpg') top center no-repeat; }
+#slide9 {background: url('../../images/_large.jpg') top center no-repeat; }
+#slide10 {background: url('../../images/_large.jpg') top center no-repeat; }
+#slide11 {background: url('../../images/_large.jpg') top center no-repeat; }
 }
 
 /* --- contact form  ---- */
